@@ -10,6 +10,7 @@
 * Keras
 * Matplotlib
 * Seaborn
+
 **Algorithms:**
 * Gaussian Naive Bayes
 * Logistic Regression
